@@ -5,3 +5,5 @@ How it works is that you can input any 5-letter word, and the code will give you
 1) Which letters are completely wrong
 2) Which letters are correct, but in the wrong position
 3) Which letters are correct and in the right position
+
+If you exceed 6 tries, the code will print the correct answer for you. 
