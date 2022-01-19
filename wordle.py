@@ -17,6 +17,8 @@ while attempts < 7:
     if len(attempt) != 5:
         print('This is not 5 letters you bonobo!')
         continue
+    elif attempt[0] in smol:
+        print ('Starts with caps sir... ')
     elif attempt not in wordle_list:
         print ('Not a valid word!')
         continue
