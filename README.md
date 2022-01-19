@@ -7,3 +7,10 @@ How it works is that the code will generate a random 5 letter word from its list
 3) Which letters are correct and in the right position
 
 If you exceed 6 tries, the code will stop running and print the correct answer for you. 
+
+Any words that:
+1) Do not start with caps
+2) Are lesser or longer than 5 letters
+3) Are not in the wordle.txt list
+
+will be rejected by the program and not counted as an attempt. 
