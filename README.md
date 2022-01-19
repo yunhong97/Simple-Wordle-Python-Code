@@ -6,4 +6,4 @@ How it works is that the code will generate a random 5 letter word from its list
 2) Which letters are correct, but in the wrong position
 3) Which letters are correct and in the right position
 
-If you exceed 6 tries, the code will print the correct answer for you. 
+If you exceed 6 tries, the code will stop running and print the correct answer for you. 
